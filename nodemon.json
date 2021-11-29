@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_USER": "aman",
+    "MONGO_PASSWORD": "qwerty1234",
+    "MONGO_DEFAULT_DATABASE": "test",
+    "EMAIL_USER": "aman.manocha97@gmail.com",
+    "EMAIL_PASS": "Aman@8588()*"
+  }
+}
